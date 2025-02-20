@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:widget_to_image/widget_to_image.dart';
+import 'package:widget_to_img/widget_to_img.dart';
 
 void main() {
   testWidgets('WidgetToImage captures widget as image',

@@ -17,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  widget_to_image:
+  widget_to_img:
     # When depending on this package from a real application you should use:
     #   save_widget_to_dir: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

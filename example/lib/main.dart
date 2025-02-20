@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_to_image/widget_to_image.dart';
+import 'package:widget_to_img/widget_to_img.dart';
 
 void main() {
   runApp(const MyApp());

@@ -263,7 +263,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
-  widget_to_image:
+  widget_to_img:
     dependency: "direct main"
     description:
       path: ".."

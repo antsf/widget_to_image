@@ -1,16 +1,16 @@
-# widget_to_image
+# widget_to_img
 
 A Flutter package to capture a widget as an image.
 
 ## Usage
 
-To use this package, add `widget_to_image` as a dependency in your `pubspec.yaml` file.
+To use this package, add `widget_to_img` as a dependency in your `pubspec.yaml` file.
 
 ### Example
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:widget_to_image/widget_to_image.dart';
+import 'package:widget_to_img/widget_to_img.dart';
 
 void main() {
   runApp(const MyApp());
