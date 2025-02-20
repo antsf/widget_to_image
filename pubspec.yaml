@@ -1,0 +1,22 @@
+name: widget_to_image
+description: A Flutter package to capture a widget as an image.
+version: 0.1.0
+# author: Arfi Antasofa <antsf73@gmail.com>
+homepage: https://github.com/antsf/widget_to_image
+repository: https://github.com/antsf/widget_to_image
+issue_tracker: https://github.com/antsf/widget_to_image/issues
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+topics:
+  - widget
+  - image
+  - capture
+  - screenshot
